@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2025-12-25T14:16:40.036145Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!",
+      "artist": "Shishamo",
+      "has_synced": true,
+      "path": "select/01_君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!_Shishamo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!_SHISHAMO.txt"
+    }
+  ]
+}
